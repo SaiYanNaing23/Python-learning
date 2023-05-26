@@ -20,10 +20,26 @@
 #     print(f'{num} hi')
 #     num+=1 
 
-num = 0; 
-while num <10:
-    if num % 2 == 0 :
-        print(f"{num}")
-    if num == 5:
-        break
-    num+= 1; 
+# num = 0; 
+# while num <10:
+#     if num % 2 == 0 :
+#         print(f"{num}")
+#     if num == 5:
+#         break
+#     num+= 1; 
+
+# names = ["Aung", "Kyaw", "Mya", "Sai"]; 
+# for name in names  :
+#     print(name)
+
+# num = 0
+# def generate_code() :
+#     prefix = "CO"
+#     global num
+#     num += 1
+#     coupon_code = f"{prefix}{num}"
+#     return coupon_code
+
+# generate_code(num)
+
+
